@@ -1,0 +1,14 @@
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.exe
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.deps.json
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.runtimeconfig.json
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.dll
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.pdb
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.dll
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\refint\ConsoleApplication.dll
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\matte\OneDrive\Desktop\Back-End\S1\Console-Application-S1-L1\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
